@@ -10,36 +10,22 @@ Original file is located at
 
 # **Credit Card Fraud Detection System**
 
-
-
 ---
 
-
 Class: TE-11
-
 Batch: N-11
-
 Group ID: 66 
-
-
 ---
 
 Group Members:
-
 Priyanka Ghuge (33361)
-
 Rajesh Chaudhari (33362)
-
 Shlok Shah (33373)
-
 Ishwar Shelke (33376)
 
 **Dataset Information:**
-
-**UCI Dataset on Credit Card Clients Data**
-
+<a href="https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients">UCI Dataset on Credit Card Clients Data</a>
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. 
-
 This study reviewed the literature and used the following 23 variables as explanatory variables:
 
 X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit.
